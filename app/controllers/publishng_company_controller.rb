@@ -1,0 +1,2 @@
+class PublishngCompanyController < ApplicationController
+end
